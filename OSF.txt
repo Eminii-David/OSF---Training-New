@@ -3,6 +3,6 @@ git init
 git add
 git commit -m "changes made"
 
-
+i'm inside your projet 
 
 this is another changes
